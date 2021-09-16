@@ -10,4 +10,8 @@ I audited the Marketing Agency Horiseon's website and performd a code refactor. 
 
 Website Link: https://troywiegel.github.io/marketing-agency-website/
 
-Website Screenshots: ![Horiseon website screenshot 1](/images/MAW1.png) ![Horiseon website screenshot 2](/images/MAW2.png) ![Horiseon website screenshot 3](/images/MAW3.png)
+Website Screenshots: 
+
+![Horiseon website screenshot 1](https://troywiegel.github.io/marketing-agency-website/assets/images/MAW1.png) 
+![Horiseon website screenshot 2](https://troywiegel.github.io/marketing-agency-website/assets/images/MAW2.png) 
+![Horiseon website screenshot 3](https://troywiegel.github.io/marketing-agency-website/assets/images/MAW3.png)
